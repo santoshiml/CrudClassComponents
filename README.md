@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ git push code//////
+ 
+ 
+ 
+ git config --global user.name "santoshi342"
+git config --global user.name "santoshiyuvasoft342@gmail.com"
+
+git init
+
+git add 
+
+git status 
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/santoshi342/redux-crud-using-live-api.git
+
+git remote -v
+
+git remote set-url origin https://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@github.com/santoshi342/redux-crud-using-live-api.git
